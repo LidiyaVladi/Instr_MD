@@ -20,5 +20,8 @@
 
 
 ## Ссылки
+
+Встроенная [ссылка на информацию о Markdown](https://ru.wikipedia.org/wiki/Markdown) 
+
 ## Картинки
 ## Таблицы
