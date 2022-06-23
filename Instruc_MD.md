@@ -21,7 +21,7 @@
 
 ## Ссылки
 
-Встроенная [ссылка на информацию о Markdown](https://ru.wikipedia.org/wiki/Markdown) 
+Синтаксис для добавления встроеннойая [ссылка на информацию о Markdown](https://ru.wikipedia.org/wiki/Markdown) 
 
 ## Картинки
 ## Таблицы
